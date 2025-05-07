@@ -129,7 +129,7 @@ export default function MainImage() {
                     data-aos-delay='2000'
                     className='absolute font-seoul text-[1.1em] text-white top-[13rem] left-[2rem] tracking-wider'
                 >
-                    <p>셀럽앤어셈</p>
+                    셀럽앤어셈
                 </div>
                 <div
                     data-aos='fade-in'

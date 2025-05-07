@@ -27,7 +27,7 @@ export default function HowToCome() {
             </div>
             <div className='flex items-center py-4'>
                 <HiLocationMarker className='text-3xl text-neutral-400' />
-                <p className='ml-2 font-suite'>샐럽앤어셈</p>
+                <p className='ml-2 font-suite'>셀럽앤어셈</p>
             </div>
             <HallMap />
             <MapDesc />

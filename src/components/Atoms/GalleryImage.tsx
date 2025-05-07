@@ -86,25 +86,25 @@ export default function GalleryImage() {
                 </button>
                 <div className='p-4 text-center text-sm text-slate-600'>
                     <span className='italic font-seoul'>
-                        우리의 행복한 추억이 담긴 사진입니다
+                        부부로서 함께 시작하는 인생 2막
                     </span>
                     <div className='italic flex-col gap-2 p-6 font-seoul text-slate-400 text-[12px]'>
-                        서로의 인생을 살아오며,
-                        <div></div>두 사람이 함께한지 육년 째,
+                        부부는 실과 바늘이라고 합니다.
+                        <div></div>실 가는 데 바늘이 가고
                         <div></div>
-                        서로 덕분에 가장 행복하게 웃었고,
-                        <div></div>그 누구보다 서로를 아껴주며
+                        바늘 가는 곳에 실 따라가듯이
+                        <div></div>어느 하나 서로가 없이는 완전치 못하고
                         <div></div>
-                        행복하게 지내고 있습니다.
+                        둘 다 온전히 상생할 때 공동의 목표에 도달하는 것처럼
                         <div></div>
                         <div></div>
-                        함께 할 내일이 끊임없이 설레기에
+                        마주보며 또 같은 방향을 향해 조화를 이루며
                         <div></div>
-                        연애의 마침표,
+                        정성스레 발맞춰 나아 간 우리 여정, 그 끝이
                         <div></div>
-                        결혼을 하고자 합니다.
+                        한 편의 아름다운 걸작으로 남을 수 있도록
                         <div></div>
-                        많은 응원과 격려 부탁드립니다.
+                        아끼고 존중하고 사랑할 것을 약속합니다.
                     </div>
                 </div>
             </Modal>

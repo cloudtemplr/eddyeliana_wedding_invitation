@@ -48,29 +48,23 @@ export default function Invitation() {
                             style={{ display: 'flex' }}
                             className='flex-col italic font-seoul text-stone-500 text-ms gap-2'
                         >
-                            서로가 마주보며
+                            서로의 반쪽을 찾은 두 사람의
                             <div></div>
-                            다져온 사랑을
+                            소망이 축복 속에서 
                             <div></div>
-                            이제 함께 한 곳을 바라보며
+                            기쁨으로 이루어 지는 날
                             <div></div>
-                            걸어갈 수 있는 큰 사랑으로
+                            좋은 꿈과 바른 뜻으로 
                             <div></div>
-                            키우고자 합니다.
+                            살아 갈 수 있도록
+                            <div></div>
+                            따뜻한 마음으로
+                            <div></div>
+                            축하와 격려 해 주시면
+                            <div></div>
+                            더 없이 감사하겠습니다.
                             <div></div>
                             <div></div>
-                            <div></div>
-                            <div></div>
-                            <div></div>
-                            <div></div>
-                            저희 두 사람이
-                            <div></div>
-                            사랑의 이름으로
-                            <div></div>
-                            지켜나갈 수 있도록
-                            <div></div>앞 날을 축복해 주시면
-                            <div></div>
-                            감사하겠습니다.
                         </span>
                     </div>
                 </div>

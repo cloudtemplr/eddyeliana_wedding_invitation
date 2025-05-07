@@ -38,24 +38,24 @@ export default function SponToggle() {
                         <>
                             <SponDesc
                                 toggle={toggle}
-                                bank='농협'
-                                account='59502121768'
+                                bank='국민'
+                                account='47900101143905'
                                 family='아버지'
-                                name='이인규'
+                                name='김재웅'
                             />
                             <SponDesc
                                 toggle={toggle}
-                                bank='농협'
-                                account='110612019975'
+                                bank='국민'
+                                account='48842588110975'
                                 family='어머니'
-                                name='이수민'
+                                name='김미정'
                             />
                             <SponDesc
                                 toggle={toggle}
                                 bank='신한'
-                                account='110300015355'
+                                account='110303832405'
                                 family='신 랑'
-                                name='이종일'
+                                name='민 석'
                             />
                         </>
                     )}
@@ -82,17 +82,24 @@ export default function SponToggle() {
                     <>
                         <SponDesc
                             anotherToggle={anotherToggle}
-                            bank='신협중앙회'
-                            account='132028205826'
+                            bank='신한'
+                            account='110250575050'
                             family='아버지'
-                            name='이광택'
+                            name='장준걸'
                         />
                         <SponDesc
                             anotherToggle={anotherToggle}
                             bank='신한'
-                            account='110305648044'
+                            account='41102015311'
+                            family='어머니'
+                            name='서정아'
+                        />
+                        <SponDesc
+                            anotherToggle={anotherToggle}
+                            bank='신한'
+                            account='110382282045'
                             family='신 부'
-                            name='이효민'
+                            name='유 현'
                         />
                     </>
                 )}
