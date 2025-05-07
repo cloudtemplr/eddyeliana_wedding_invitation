@@ -6,7 +6,7 @@ import { useEffect } from 'react';
 
 export default function KakaoShare() {
     const handleShareBtn = () => {
-        const url = 'https://wedding-oct.vercel.app';
+        const url = 'https://eddyeliana-wedding-invitation.vercel.app';
         const apiKey = process.env.NEXT_PUBLIC_KAKAO_API_KEY;
         // ** Property 'Kakao' does not exist on type 'Window & typeof globalThis'.
         // global.d.ts 타입 규정 => include
@@ -69,7 +69,7 @@ export default function KakaoShare() {
                     <div></div>
                     <p>모든 분들께 감사드립니다.</p>
                 </div>
-                <div className='flex justify-center items-center text-center pb-4'>
+                {/* <div className='flex justify-center items-center text-center pb-4'>
                     <Link
                         href='#'
                         onClick={handleShareBtn}
@@ -81,7 +81,7 @@ export default function KakaoShare() {
                             alt='카카오톡 공유 보내기 버튼'
                         />
                     </Link>
-                </div>
+                </div> */}
             </div>
         </div>
     );
