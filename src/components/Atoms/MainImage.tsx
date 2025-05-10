@@ -127,7 +127,7 @@ export default function MainImage() {
                     data-aos-offset='100'
                     data-aos-duration='3000'
                     data-aos-delay='2000'
-                    className='absolute font-seoul text-[1.1em] text-white top-[9rem] left-[2rem] tracking-wider'
+                    className='absolute font-seoul text-[1.1em] text-white top-[8rem] left-[2rem] tracking-wider'
                 >
                     셀럽앤어셈
                 </div>
@@ -136,7 +136,7 @@ export default function MainImage() {
                     data-aos-offset='100'
                     data-aos-duration='3000'
                     data-aos-delay='3000'
-                    className='italic absolute font-seoul text-[1.0em] text-white top-[11rem] left-8 border-b-2'
+                    className='italic absolute font-seoul text-[1.0em] text-white top-[10rem] left-8 border-b-2'
                 >
                     <span>2025.07.05.(토) 오후 3시 30분</span>
                 </div>
