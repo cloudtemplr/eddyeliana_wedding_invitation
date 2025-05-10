@@ -127,7 +127,7 @@ export default function MainImage() {
                     data-aos-offset='100'
                     data-aos-duration='3000'
                     data-aos-delay='2000'
-                    className='absolute font-seoul text-[1.1em] text-white top-[11rem] left-[2rem] tracking-wider'
+                    className='absolute font-seoul text-[1.1em] text-white top-[10rem] left-[2rem] tracking-wider'
                 >
                     셀럽앤어셈
                 </div>
