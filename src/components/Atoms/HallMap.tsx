@@ -8,8 +8,8 @@ export default function HallMap() {
         if (mapRef.current) {
             const mapOptions = {
                 center: new naver.maps.LatLng(
-                    37.5178297, // 강남 셀럽앤어셈 위도
-                    127.0235206 // 강남 셀럽앤어셈 경도
+                    37.517379, // 강남 셀럽앤어셈 위도
+                    127.033939 // 강남 셀럽앤어셈 경도
                 ),
                 zoom: 16,
             };
@@ -18,8 +18,8 @@ export default function HallMap() {
 
             const markerOptions = {
                 position: new naver.maps.LatLng(
-                    37.5178297,
-                    127.0235206
+                    37.517379, // 강남 셀럽앤어셈 위도
+                    127.033939 // 강남 셀럽앤어셈 경도
                 ),
                 map,
             };
@@ -35,12 +35,12 @@ export default function HallMap() {
                 src={`https://openapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=${process.env.NEXT_PUBLIC_MAP_KEY}`}
                 onLoad={() => {
                     const mapOptions = {
-                    center: new naver.maps.LatLng(37.5178297, 127.0235206),
+                    center: new naver.maps.LatLng(37.517379, 127.033939),
                     zoom: 16,
                     };
                     const map = new naver.maps.Map(document.getElementById("map")!, mapOptions);
                     new naver.maps.Marker({
-                    position: new naver.maps.LatLng(37.5178297, 127.0235206),
+                    position: new naver.maps.LatLng(37.517379, 127.033939),
                     map,
                     });
                 }}
