@@ -31,10 +31,22 @@ export default function HallMap() {
     return (
         <>
             <Script
-                strategy='beforeInteractive'
+                strategy="afterInteractive"
                 src={`https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=${process.env.NEXT_PUBLIC_MAP_KEY}`}
-            ></Script>
-            <div ref={mapRef} style={{ width: '100%', height: '400px' }} />
+                onLoad={() => {
+                    const mapOptions = {
+                    center: new naver.maps.LatLng(37.5178297, 127.0235206),
+                    zoom: 16,
+                    };
+                    const map = new naver.maps.Map(document.getElementById("map")!, mapOptions);
+                    new naver.maps.Marker({
+                    position: new naver.maps.LatLng(37.5178297, 127.0235206),
+                    map,
+                    });
+                }}
+                />
+            <div id="map" style={{ width: "100%", height: "400px" }} />
+
         </>
     );
 }
