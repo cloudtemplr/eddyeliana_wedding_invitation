@@ -32,7 +32,7 @@ export default function HallMap() {
         <>
             <Script
                 strategy="afterInteractive"
-                src={`https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=${process.env.NEXT_PUBLIC_MAP_KEY}`}
+                src={`https://openapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=${process.env.NEXT_PUBLIC_MAP_KEY}`}
                 onLoad={() => {
                     const mapOptions = {
                     center: new naver.maps.LatLng(37.5178297, 127.0235206),
