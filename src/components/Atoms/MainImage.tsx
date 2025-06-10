@@ -75,7 +75,7 @@ export default function MainImage() {
                     data-aos-duration='3000'
                     data-aos-offset='100'
                 >
-                    <span className='absolute top-20 right-1 text-[26px] font-thin tracking-[6px]'>
+                    <span className='absolute top-10 right-1 text-[26px] font-thin tracking-[6px]'>
                         결
                     </span>
                 </div>
@@ -85,7 +85,7 @@ export default function MainImage() {
                     data-aos-duration='3000'
                     data-aos-offset='300'
                 >
-                    <span className='absolute top-32 right-1 text-[26px] font-thin tracking-[6px]'>
+                    <span className='absolute top-20 right-1 text-[26px] font-thin tracking-[6px]'>
                         혼
                     </span>
                 </div>
@@ -95,7 +95,7 @@ export default function MainImage() {
                     data-aos-duration='3000'
                     data-aos-offset='500'
                 >
-                    <span className='absolute top-44 right-1 text-[26px] font-thin tracking-[6px]'>
+                    <span className='absolute top-30 right-1 text-[26px] font-thin tracking-[6px]'>
                         합
                     </span>
                 </div>
@@ -105,7 +105,7 @@ export default function MainImage() {
                     data-aos-duration='3000'
                     data-aos-offset='500'
                 >
-                    <span className='absolute top-56 right-1 text-[26px] font-thin tracking-[6px]'>
+                    <span className='absolute top-40 right-1 text-[26px] font-thin tracking-[6px]'>
                         니
                     </span>
                 </div>
@@ -115,7 +115,7 @@ export default function MainImage() {
                     data-aos-duration='3000'
                     data-aos-offset='500'
                 >
-                    <span className='absolute top-[17rem] right-1 text-[26px] font-thin tracking-[6px]'>
+                    <span className='absolute top-[16rem] right-1 text-[26px] font-thin tracking-[6px]'>
                         다
                     </span>
                 </div>
@@ -127,7 +127,7 @@ export default function MainImage() {
                     data-aos-offset='100'
                     data-aos-duration='3000'
                     data-aos-delay='2000'
-                    className='absolute font-seoul text-[1.1em] text-white top-[10rem] left-[2rem] tracking-wider'
+                    className='absolute font-seoul text-[1.1em] text-white top-[8rem] left-[2rem] tracking-wider'
                 >
                     셀럽앤어셈
                 </div>
@@ -136,7 +136,7 @@ export default function MainImage() {
                     data-aos-offset='100'
                     data-aos-duration='3000'
                     data-aos-delay='3000'
-                    className='italic absolute font-seoul text-[1.0em] text-white top-[12rem] left-8 border-b-2'
+                    className='italic absolute font-seoul text-[1.0em] text-white top-[10rem] left-8 border-b-2'
                 >
                     <span>2025.07.05.(토) 오후 3시 30분</span>
                 </div>
