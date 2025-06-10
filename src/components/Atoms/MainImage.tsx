@@ -75,7 +75,7 @@ export default function MainImage() {
                     data-aos-duration='3000'
                     data-aos-offset='100'
                 >
-                    <span className='absolute top-10 right-1 text-[26px] font-thin tracking-[6px]'>
+                    <span className='absolute top-20 right-1 text-[26px] font-thin tracking-[6px]'>
                         결
                     </span>
                 </div>
@@ -85,7 +85,7 @@ export default function MainImage() {
                     data-aos-duration='3000'
                     data-aos-offset='300'
                 >
-                    <span className='absolute top-15 right-1 text-[26px] font-thin tracking-[6px]'>
+                    <span className='absolute top-32 right-1 text-[26px] font-thin tracking-[6px]'>
                         혼
                     </span>
                 </div>
@@ -95,7 +95,7 @@ export default function MainImage() {
                     data-aos-duration='3000'
                     data-aos-offset='500'
                 >
-                    <span className='absolute top-20 right-1 text-[26px] font-thin tracking-[6px]'>
+                    <span className='absolute top-44 right-1 text-[26px] font-thin tracking-[6px]'>
                         합
                     </span>
                 </div>
@@ -105,7 +105,7 @@ export default function MainImage() {
                     data-aos-duration='3000'
                     data-aos-offset='500'
                 >
-                    <span className='absolute top-25 right-1 text-[26px] font-thin tracking-[6px]'>
+                    <span className='absolute top-56 right-1 text-[26px] font-thin tracking-[6px]'>
                         니
                     </span>
                 </div>
@@ -115,7 +115,7 @@ export default function MainImage() {
                     data-aos-duration='3000'
                     data-aos-offset='500'
                 >
-                    <span className='absolute top-30 right-1 text-[26px] font-thin tracking-[6px]'>
+                    <span className='absolute top-[17rem] right-1 text-[26px] font-thin tracking-[6px]'>
                         다
                     </span>
                 </div>

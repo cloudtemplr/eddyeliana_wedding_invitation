@@ -27,7 +27,7 @@ export default function EventHall() {
                 </div>
                 <div className='flex-col pl-2 basis-2/3 items-center justify-center'>
                     <h3 className='font-seoul pl-[4%] pb-[2%] text-sm text-slate-900'>
-                        단독 이벤트 홀 (디 아이이올라홀)
+                        단독 이벤트 홀 (디 아이올라홀)
                     </h3>
                     <div className='font-suite flex items-center text-[13px] h-[10%] break-keep rounded-xl bg-slate-100 p-4'>
                         본 예식은 2층 단독 이벤트 홀인 
