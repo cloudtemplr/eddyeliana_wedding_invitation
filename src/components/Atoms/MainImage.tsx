@@ -139,6 +139,7 @@ export default function MainImage() {
                     className='italic absolute font-seoul text-[1.0em] text-white top-[10rem] left-8 border-b-2'
                 >
                     <span>2025.07.05.(토) 오후 3시 30분</span>
+                    
                 </div>
             </div>
 
