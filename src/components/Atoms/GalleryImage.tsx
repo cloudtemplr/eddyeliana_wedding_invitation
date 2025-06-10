@@ -9,6 +9,20 @@ export default function GalleryImage() {
     const [isResizing, setIsResizing] = useState({ width: 0, height: 0 });
 
     const images = [
+        '/images/main.jpeg',
+        '/images/new1.jpeg',
+        '/images/new2.jpeg',
+        '/images/new3.jpeg',
+        '/images/new4.jpeg',
+        '/images/new5.jpeg',
+        '/images/new6.jpeg',
+        '/images/new7.jpeg',
+        '/images/new8.jpeg',
+        '/images/new9.jpeg',
+        '/images/new10.jpeg',
+        '/images/new11.jpeg',
+        '/images/new12.jpeg',
+        '/images/new13.jpeg',
         '/images/1.jpeg',
         '/images/2.jpeg',
         '/images/3.jpeg',
